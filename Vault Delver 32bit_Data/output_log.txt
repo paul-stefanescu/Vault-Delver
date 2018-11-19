@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\Vault Delver\Vault Delver V5\Vault Delver 32bit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.358993 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.832326 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1042.
+Total: 0.663379 ms (FindLiveObjects: 0.095479 ms CreateObjectMapping: 0.024569 ms MarkObjects: 0.292036 ms  DeleteObjects: 0.248806 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.359725 ms
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 3.539267 ms (FindLiveObjects: 0.057536 ms CreateObjectMapping: 0.039186 ms MarkObjects: 0.206820 ms  DeleteObjects: 3.232613 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412396 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 5.583520 ms (FindLiveObjects: 0.041986 ms CreateObjectMapping: 0.042919 ms MarkObjects: 0.177274 ms  DeleteObjects: 5.318852 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bc8 -> priority: 1 
+  Thread -> id: 2ce4 -> priority: 1 
